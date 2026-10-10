@@ -57,10 +57,6 @@ Neither correlation was statistically significant at the 5% significance level. 
 - `data/` — Shareable datasets or dataset access instructions, if included.
 - `images/` — Selected project visualizations, if included.
 
-## Full Report
-
-See [`report/2441439_Statistics_Project_Final_Report.pdf`](report/2441439_Statistics_Project_Final_Report.pdf) for the complete analysis.
-
 ## Disclaimer
 
 The findings represent the results of this project's statistical analysis. They should not be interpreted as evidence that income inequality causes mental health disorders.
